@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/TCDB_exploer.iml" filepath="$PROJECT_DIR$/.idea/TCDB_exploer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ultra_SILvioleet/.idea/Ultra_SILvioleet.iml" filepath="$PROJECT_DIR$/../Ultra_SILvioleet/.idea/Ultra_SILvioleet.iml" />
     </modules>
   </component>
 </project>
